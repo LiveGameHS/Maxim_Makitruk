@@ -1,2 +1,0 @@
-# Makitruk_Maxim
-
